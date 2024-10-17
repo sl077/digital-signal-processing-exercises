@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python  # 3.10.6
+#  - python  # 3.10.6
   - pip  # 22.2.2
   - flake8  # 5.0.4
   - pydocstyle  # 6.1.1
@@ -12,8 +12,8 @@ dependencies:
   - sympy  # 1.11.1
   - scipy  # 1.9.1
   - matplotlib  # 3.6.0
-  - ipykernel  # 6.16.0
-  - jupyterlab  # 3.4.7
+#  - ipykernel  # 6.16.0
+#  - jupyterlab  # 3.4.7
   - ipympl  # 0.9.2
   - nb_conda  # 2.2.1
   - autopep8  # 1.7.0
